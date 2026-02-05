@@ -15,6 +15,8 @@ public class TestWeek {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //setValue(3);
+        System.out.println("The initial value for the variable is: ");
     }
     
 }
