@@ -15,6 +15,8 @@ public class TestWeek {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //For fetch and merge
+        System.out.println("We are about to fetch");
     }
     
 }
