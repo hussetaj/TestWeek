@@ -9,6 +9,7 @@
  */
 public class Card {
     private int value;
+    private String name;
 
     /**
      * @return the value
@@ -22,6 +23,20 @@ public class Card {
      */
     public void setValue(int value) {
         this.value = value;
+    }
+
+    /**
+     * @return the name
+     */
+    public String getName() {
+        return name;
+    }
+
+    /**
+     * @param name the name to set
+     */
+    public void setName(String name) {
+        this.name = name;
     }
     
 }
